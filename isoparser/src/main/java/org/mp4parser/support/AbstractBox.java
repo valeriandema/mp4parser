@@ -143,7 +143,6 @@ public abstract class AbstractBox implements ParsableBox {
                 deadBytes = content.slice();
             }
             this.content = null;
-            assert verify(content);
         }
     }
 
