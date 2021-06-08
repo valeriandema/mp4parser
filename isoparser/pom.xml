@@ -43,9 +43,9 @@
 
                 </dependencies>
                 <configuration>
-                    <complianceLevel>7</complianceLevel>
-                    <source>7</source>
-                    <target>7</target>
+                    <complianceLevel>8</complianceLevel>
+                    <source>8</source>
+                    <target>8</target>
                 </configuration>
             </plugin>
 
